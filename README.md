@@ -6,6 +6,8 @@ I'm a Software Engineer. I'm passionate about learning, sharing knowledge, solvi
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
+- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023. 
+- 💼 Job interests: Software Engineer(Python(FastAPI))(Intern / Junior level).
 - 😊 I’m looking for help with open source projects, hackathons, and junior-level opportunities.
 - 💼 Job interests: Software Engineer.
 - 📫 You can [view my resume](#) and contact me by emailing peterimade6@gmail.com.
